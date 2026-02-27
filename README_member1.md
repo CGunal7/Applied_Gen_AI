@@ -1,5 +1,3 @@
-# Member 1 — Data Engineer: Data Pipeline & Vector Store
-
 ## Data Source
 
 | File | Description | Records |
